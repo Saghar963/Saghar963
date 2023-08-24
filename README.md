@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Saghar963
 - 👀 I’m interested in Geospatial Data Science
-- 🌱 I’m currently learning Python together with Matplotlib and Pandas
+- 🌱 I’m currently learning Python and it's libraries include: Pandas and Matplotlib & Geoplotlib
 - 💞️ I’m looking to collaborate on Geospatial data analysis
 - 📫 How to reach me by sending email to saghar.hosseinalizadeh@mail.polimi.it 
 
